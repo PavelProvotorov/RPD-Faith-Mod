@@ -1,0 +1,12 @@
+{
+"baseSpeed"		:0,
+"attackDelay"	:1,
+"ht"			:5,
+"name"			:"Дух",
+"name_objective":"Духа",
+"description"	:"Странствующий дух, заблудший в нашем мире. Он пристально смотрит на тебя...",
+"gender"		:"masculine",
+"spriteDesc"	:"spritesDesc/wisp_desc.json",
+"scriptFile"    :"scripts/mobs/talkie_wisp_00",
+"friendly"		:true
+}

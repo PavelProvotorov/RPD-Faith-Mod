@@ -1,0 +1,14 @@
+{
+	"common": {
+		"armor":
+		{"kind":"ClothArmor", "identified":true }
+},
+	"ROGUE": {
+		"str":12,
+		"hp":10,
+		"knownItems":[
+		{"kind":"PotionOfHealing"}
+		]
+		
+	}
+}
