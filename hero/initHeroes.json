@@ -5,7 +5,7 @@
 },
 	"ROGUE": {
 		"str":12,
-		"hp":12,
+		"hp":14,
 		"knownItems":[
 		{"kind":"PotionOfHealing"}
 		]
