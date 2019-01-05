@@ -1,9 +1,3 @@
---
--- User: mike
--- Date: 24.01.2018
--- Time: 23:58
--- This file is part of Remixed Pixel Dungeon.
---
 
 local RPD = require "scripts/lib/commonClasses"
 
