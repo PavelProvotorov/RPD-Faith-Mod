@@ -26,7 +26,6 @@
 	{"kind":"gnoll_cst","x":16,"y":4,"aiState": "Sleeping"},
 	{"kind":"gnoll_cst","x":19,"y":3,"aiState": "Sleeping"},
 	{"kind":"gnoll_cst","x":20,"y":28,"aiState": "Sleeping"},
-	{"kind":"gnoll_cst","x":20,"y":28,"aiState": "Sleeping"},
 	{"kind":"gnoll_cst","x":23,"y":29,"aiState": "Sleeping"},
 	{"kind":"gnoll_cst","x":10,"y":2,"aiState": "Wandering"},
 	{"kind":"gnoll_cst","x":20,"y":13,"aiState": "Wandering"},
