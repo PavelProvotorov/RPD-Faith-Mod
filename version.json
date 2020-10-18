@@ -1,6 +1,8 @@
 ﻿{
   "version":6,
   "name": "Faith",
-  "author_site": "https://github.com/PavelProvotorov/RPD-Faith-Mod",
+  "author": "Pavel Provotorov&Neyromantik",
+  "description":"Trying to create something...",
+  "url": "https://github.com/PavelProvotorov/RPD-Faith-Mod",
   "hr_version":"6"
 }
