@@ -1,0 +1,26 @@
+{
+   "texture" : "mobs/monster_snapper.png",
+   "width" : 16,
+   "height" : 16,
+   "idle" : {
+      "fps" : 2,
+      "looped" : true,
+      "frames" : [0, 0, 1]
+   },
+   "run" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [2, 3, 4, 5]
+   },
+   "attack" : {
+      "fps" : 14,
+      "looped" : false,
+      "frames" : [6, 7, 8, 9, 10]
+   },
+   "die" : {
+      "fps" : 10,
+      "looped" : false,
+      "frames" : [11, 12, 13, 14]
+   },
+   "bloodColor" : "0xCC0000"
+}
