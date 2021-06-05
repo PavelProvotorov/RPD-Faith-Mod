@@ -1,14 +1,18 @@
 {
 	"common": {
-		"armor":
-		{"kind":"ClothArmor", "identified":true }
 },
 	"ROGUE": {
-		"str":12,
-		"hp":14,
+		"str":11,
+		"hp":20,
 		"knownItems":[
 		{"kind":"PotionOfHealing"}
-		]
+		],
+"isSpellUser": false,
+"magicAffinity": "Rogue",
+"forbiddenActions": [
+"TomeOfMastery_ACRead"
+]
 		
 	}
 }
+

@@ -1,0 +1,36 @@
+{
+  "texture" : "hero_modern/empty.png",
+
+  "width"   : 32,
+  "height"  : 32,
+
+  "visualWidth"   : 14,
+  "visualHeight"  : 17,
+
+  "visualOffsetX"   : 8,
+  "visualOffsetY"   : 8,
+
+
+  "idle"    : { "fps" : 2,  "looped" : true,     "frames" : [0, 0, 0, 1, 0, 0, 1, 1] },
+  "run"     : { "fps" : 20, "looped" : true,     "frames" : [2, 3, 4, 5, 6, 7] },
+  "die"     : { "fps" : 20, "looped" : false,    "frames" : [0 ] },
+  "attack"  : { "fps" : 15, "looped" : false,    "frames" : [0, 8, 9, 10] },
+  "zap"     : { "fps" : 15, "looped" : false,    "frames" : [0, 8, 9, 10] },
+
+  "operate" : { "fps" : 8,  "looped" : false,    "frames" : [11, 12, 11, 13, 11] },
+  "fly"     : { "fps" : 4,  "looped" : true,     "frames" : [14, 15, 15, 14, 14, 14, 15] },
+
+  "weapon_anim" : {
+    "none"      : { "fps" : 15, "looped" : false,    "frames" : [0, 8, 9, 10] },
+    "right"     : { "fps" : 8,  "looped" : false,    "frames" : [0 ] },
+    "left"      : { "fps" : 8,  "looped" : false,    "frames" : [0 ] },
+    "dual"      : { "fps" : 8,  "looped" : false,    "frames" : [0 ] }
+  },
+
+  "bodyType": {
+    "WARLOCK": "warlock",
+    "LICH": "lich",
+    "GNOLL": "gnoll",
+    "HUNTRESS": "woman"
+  }
+}
