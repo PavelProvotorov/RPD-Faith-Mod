@@ -1,0 +1,59 @@
+{ 
+"Spear": {
+"file":"items/itemscustom.png",
+"index":0
+},
+"PotionOfHealing": {
+"file":"items/itemscustom.png",
+"index":1
+},
+"Ration": {
+"file":"items/itemscustom.png",
+"index":2
+},
+"Codex": {
+"file":"items/itemscustom.png",
+"index":3
+},
+"ScrollOfChallenge": {
+"file":"items/itemscustom.png",
+"index":4
+},
+"OverpricedRation": {
+"file":"items/itemscustom.png",
+"index":5
+},
+"Weightstone": {
+"file":"items/itemscustom.png",
+"index":6
+},
+"IronKey": {
+"file":"items/itemscustom.png",
+"index":7
+},
+"Amulet": {
+"file":"items/itemscustom.png",
+"index":8
+},
+"ClothArmor": {
+"file":"items/itemscustom.png",
+"index":9
+},
+"ShortSword": {
+"file":"items/itemscustom.png",
+"index":10
+},
+"Dart": {
+"file":"items/itemscustom.png",
+"index":11
+},
+"PotionOfLevitation": {
+"file":"items/itemscustom.png",
+"index":12
+},
+"PotionOfMight": {
+"file":"items/itemscustom.png",
+"index":13
+}
+}
+
