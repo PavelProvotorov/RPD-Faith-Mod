@@ -2,6 +2,7 @@
 "Levels":{
 "0":{"kind":"SewerLevel","depth":0,"size":[0,0]},
 "level_start":{"kind":"PredesignedLevel","depth":0,"size":[32,32],"file":"levelsDesc/level_start.json","isSafe":true,"viewDistance":3,"music":"winter.mp3","script":"scripts/actors/snow"},
+"level_ruins_0":{"kind":"PredesignedLevel","depth":0,"size":[32,32],"file":"levelsDesc/level_ruins_0.json","isSafe":true,"viewDistance":3,"music":"winter.mp3","script":"scripts/actors/snow"},
 "lev00s":{"kind":"PredesignedLevel","depth":1,"size":[16,16],"file":"levelsDesc/lev00s.json","isSafe":false,"music":"winter.mp3"},
 "lev01s":{"kind":"PredesignedLevel","depth":2,"size":[16,16],"file":"levelsDesc/lev01s.json","isSafe":false,"music":"dungeon.mp3"},
 "lev02s":{"kind":"PredesignedLevel","depth":6,"size":[16,16],"file":"levelsDesc/lev02s.json","isSafe":false,"viewDistance":2,"music":"winter.mp3"},
@@ -14,7 +15,8 @@
 },
 "Graph":{
 "0":[["level_start"],[]],
-"level_start":[["level00s"],[]],
+"level_start":[["level_ruins_0"],[]],
+"level_ruins_0":[[],["level_start"]],
 "lev00s":[["lev00m"],["lev01m"],[1]],
 "lev01s":[["lev00m"],["lev03m"],[2]],
 "lev02s":[["lev00m"],[]],
